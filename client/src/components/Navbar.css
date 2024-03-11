@@ -1,0 +1,28 @@
+.navbar{
+    background-color: black !important;
+    border-block: solid;
+    border-bottom-width: 10px;
+}
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: yellow !important;
+}
+
+.navbar-nav{
+    margin-left: auto !important;
+}
+
+.navbar-par2 {
+    color: white;
+    font-size: 16px;
+}
+.navbar-text{
+    margin-left: 387px;
+    margin-top: 10px;
+}
+.navbar-par2{
+    font-size: 20px;
+}
